@@ -22,7 +22,7 @@
    - Altıncı dize solundaki dizelerle karşılaştırılır.
    - 6 sayısı 2 den büyük ve geri kalan sayılardan küçük olduğu için ikinci sıraya yerleştirilir.
   
- DİZİNİN SON HALİ 6. ADIMLA SONLANMIŞ OLUR.   [2,6,16,18,22,27]
+ Dizenin son hali   [2,6,16,18,22,27] 
 
 
  # SORU 2 
